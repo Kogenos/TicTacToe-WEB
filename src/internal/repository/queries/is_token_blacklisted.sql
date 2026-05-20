@@ -1,0 +1,1 @@
+SELECT EXISTS(SELECT 1 FROM refresh_token_blacklist WHERE token_hash = $1 AND expires_at > NOW());
