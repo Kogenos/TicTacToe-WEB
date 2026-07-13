@@ -19,4 +19,4 @@
 - `ValidateAccessToken(tokenString)`, `ValidateRefreshToken(tokenString)`
 - `GetUserIDFromToken(token)`
 - `HashToken(tokenString)` – для чёрного списка.
-См. также [Регистрация и JWT-логин](../03_Flow/Регистрация и JWT-логин.md).
+См. также [Регистрация и JWT-логин](../03_Flow/Регистрация%20и%20JWT-логин.md).
