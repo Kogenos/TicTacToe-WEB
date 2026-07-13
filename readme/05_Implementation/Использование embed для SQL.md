@@ -29,4 +29,4 @@ var saveGameQuery string
 - `add_to_blacklist.sql`, `is_token_blacklisted.sql`
     
 
-См. также [Схема таблицы games](../04_Database/Схема таблицы games.md), [Важные SQL-запросы (лидерборд, история)](../04_Database/Важные SQL-запросы (лидерборд, история).md).
+См. также [Схема таблицы games](../04_Database/Схема%20таблицы%20games.md), [Важные SQL-запросы (лидерборд, история)](../04_Database/Важные%20SQL-запросы%20(лидерборд,%20история).md).
