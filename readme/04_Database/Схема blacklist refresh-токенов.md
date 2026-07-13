@@ -30,4 +30,4 @@ CREATE TABLE IF NOT EXISTS refresh_token_blacklist (
 - Периодически можно очищать записи с истекшим сроком (но необязательно).
     
 
-См. также [[Чёрный список refresh-токенов]].
+См. также [Чёрный список refresh-токенов](../05_Implementation/Чёрный%20список%20refresh-токенов.md).
