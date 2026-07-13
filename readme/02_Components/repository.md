@@ -19,4 +19,4 @@
 - JSON-поля сериализуются/десериализуются через `json.Marshal/Unmarshal`.
 - Все методы принимают `context.Context`.
 
-См. также [База данных PostgreSQL](../01_Architecture/База данных PostgreSQL.md).
+См. также [База данных PostgreSQL](../01_Architecture/База%20данных%20PostgreSQL.md).
