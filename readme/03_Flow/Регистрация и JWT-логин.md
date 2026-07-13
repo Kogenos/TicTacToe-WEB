@@ -22,4 +22,4 @@
    - Генерирует refresh-токен (7 дней) через `JwtProvider.GenerateRefreshToken`.
 4. Возвращает `JwtResponse` (`type: Bearer`, access_token, refresh_token).
 
-См. также [JWT-токены (access, refresh)](../05_Implementation/JWT-токены (access, refresh).md), [[Чёрный список refresh-токенов]].
+См. также [JWT-токены (access, refresh)](../05_Implementation/JWT-токены%20(access,%20refresh).md), [[Чёрный список refresh-токенов]].
